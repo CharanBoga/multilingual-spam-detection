@@ -15,8 +15,7 @@ This project focuses on detecting spam reviews across multiple languages using a
 - **Python** 🐍  
 - **NumPy & Pandas** 📊  
 - **NLTK & SpaCy** 📝  
-- **Scikit-Learn & SVM** 🤖  
-- **Gensim & FastText** 🏋️  
+- **Scikit-Learn & SVM** 🤖    
 - **Weighted Swarm Optimization Algorithm**  
 
 
